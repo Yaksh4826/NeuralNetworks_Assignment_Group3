@@ -3,8 +3,6 @@
 
 import numpy as np
 
-np.Inf = np.inf  # temporary fix
-
 import numpy as np
 import neurolab as nl
 
@@ -133,7 +131,7 @@ plt.show()
 
 
 result4 = net4.sim(test_value);
-print("\nResult #5 :")
+print("\nResult #4 :")
 print(result4)
 
 
