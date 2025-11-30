@@ -64,16 +64,6 @@ print(result_2)
 
 
 
-
-
-
-
-
-
-
-
-
-
 """ Exercise : #3 Generating the training and testing data for the model"""
 
 """Generating the training data for the neural network model.
